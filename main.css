@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top
+{
+    background-color: #43133e;
+    text-align: center;
+    color: white;
+    /* height: 50px; */
+    font-size: large;
+    padding: 3%
+}
+.main-sections {
+    margin: 4rem;
+    /* padding: 5% */
+}
+/* .section1{
+    display:inline;
+}
+.section2{
+    display:inline;
+} */
+.wonders
+{
+    margin: 0 9rem;
+}
+.header1{
+    font-size:2rem;
+    text-decoration: none;
+}
+.cover img
+{
+    width: 100%;
+}
+/* .para
+{
+    
+} */
+#pollachi img{
+    width:100%;
+}
+button{
+    color: white;
+    padding: 0.5rem;
+    border: 0;
+    margin: 1rem 0rem;
+    background-color: #7a1755;
+}
+.section1
+{
+    width: 30%;
+    display: inline-block;
+    margin: 1rem;
+}
+.wonders :first-child{
+    font-size: 2rem;
+    color: #840057    ;
+    text-align: center;
+}
+.wonders :last-child{
+    text-align: justify;
+}
+.foot
+{
+    margin-top: 2rem;
+    background-color: #840057;
+    color: white;
+    padding: 1rem 5rem;
+}
+/* .top header{
+    padding-top: 50px;
+} */
